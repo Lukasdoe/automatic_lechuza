@@ -1,7 +1,7 @@
 # automatic_lechuza
 Automatic flower watering and data collection using a "Lechuza" flower pot
 
-For detailed build information, visit the post https://lukas-doellerer.de/2019/07/automatic-lechuza/
+For detailed build information, visit the post https://cultivaid.eu/automatic-plant-waterer/
 
 Required libraries: 
   - https://github.com/knolleary/pubsubclient/
